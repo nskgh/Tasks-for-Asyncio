@@ -1,5 +1,5 @@
 # Tasks-for-Asyncio: 
-Programs for the Tasks
+Programs for the Tasks: 
 For Task 1, I replaced the function sleep_coro() with the function run() to display the contents of the webpages in the Python Shell. 
 For Task 2, there were 2 parts.
 The first part required me to download the JSON files from the xkcd website in a synchronous manner(which is time consuming). JSON commands were used for the same(for decoding and writing to the files). The total time taken for all the contents to be downloaded and the files written was 81.02 seconds. 
